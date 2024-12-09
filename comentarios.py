@@ -1,11 +1,7 @@
-# Permite escrever um comentário na linha
+# Utilizando o hashtag permite escrever um comentário na linha
 
 """
-Permite escrever um comentário em
-multiplas linhas.
+Uilizando aspas simples ou duplas
+permite escrever um comentário
+em multiplas linhas.
 """
-
-'''
-O comentário em multiplas linhas também
-funciona com aspas simples.
-'''
