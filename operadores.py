@@ -32,3 +32,14 @@ print("Texto:", texto)
 
 texto_repetido = "A" * 3
 print("Texto repetido:", texto_repetido)
+
+"""
+Operadores de comparação
+"""
+
+maior = 2 > 1
+maior_igual = 4 >= 2
+menor = 5 < 10
+menor_igual = 8 <= 8
+igual = "a" == "a"
+diferente = "a" != "b"
